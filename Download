@@ -1,0 +1,7 @@
+https://anonfiles.com/AaN8WbK1yc/cobaltstrike-v4.7_zip
+password:1234
+Dm me for any Question
+
+Setup Guide on server:
+chmod +x ./teamserver.sh
+./teamserver.sh <ip_of_server> <password_for_server> <profile_path>
